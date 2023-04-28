@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: 'Misspiece';
-  src: local('Misspiece'), url(./Misspiece.woff) format('woff');
+  src: local('Misspiece'), url(./assets/Misspiece.woff) format('woff');
 }
 
 @media screen and (max-width: 440px) {

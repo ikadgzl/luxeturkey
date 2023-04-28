@@ -1,4 +1,4 @@
-import BackgroundImage from '/bg.png';
+import BackgroundImage from '/assets/bg.png';
 
 function App() {
   return (
