@@ -6,7 +6,7 @@ function App() {
       className='app'
       style={{
         width: '100vw',
-        height: '100vh',
+        height: '100svh',
         backgroundImage: `url(${BackgroundImage})`,
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',
